@@ -1,0 +1,4 @@
+com\mycompany\unittest\App.class
+module-info.class
+com\mycompany\unittest\PrimaryController.class
+com\mycompany\unittest\SecondaryController.class

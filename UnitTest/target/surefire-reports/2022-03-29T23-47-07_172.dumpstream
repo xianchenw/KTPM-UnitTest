@@ -1,0 +1,6 @@
+# Created at 2022-03-29T23:47:13.542
+Error: Could not find or load main class t?p\KTPM\UnitTest\target\classes;C:\Users\HIEN\.m2\repository\org\openjfx\javafx-controls\13\javafx-controls-13-win.jar;C:\Users\HIEN\.m2\repository\org\openjfx\javafx-graphics\13\javafx-graphics-13-win.jar;C:\Users\HIEN\.m2\repository\org\openjfx\javafx-base\13\javafx-base-13-win.jar;C:\Users\HIEN\.m2\repository\org\openjfx\javafx-fxml\13\javafx-fxml-13-win.jar
+
+# Created at 2022-03-29T23:47:13.542
+Caused by: java.lang.ClassNotFoundException: t?p\KTPM\UnitTest\target\classes;C:\Users\HIEN\/m2\repository\org\openjfx\javafx-controls\13\javafx-controls-13-win/jar;C:\Users\HIEN\/m2\repository\org\openjfx\javafx-graphics\13\javafx-graphics-13-win/jar;C:\Users\HIEN\/m2\repository\org\openjfx\javafx-base\13\javafx-base-13-win/jar;C:\Users\HIEN\/m2\repository\org\openjfx\javafx-fxml\13\javafx-fxml-13-win/jar
+

@@ -1,0 +1,4 @@
+--patch-module
+com.mycompany.unittest=_
+--add-reads
+com.mycompany.unittest=ALL-UNNAMED
